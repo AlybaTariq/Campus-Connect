@@ -4,6 +4,10 @@
  📌 Overview  
 This project involves designing an efficient network topology for an enterprise, ensuring seamless communication and structured network management. The topology includes various departments, each with specific configurations and servers, enabling reliable and secure data exchange.  
 
+![image](https://github.com/user-attachments/assets/edb83331-a5d7-483a-aa83-4d771f86418e)
+
+
+
  🛠️ Features  
 Subnetting: Efficient allocation of IP addresses  
 Servers: Implemented DNS, Web, Email, and DHCP servers  
@@ -19,7 +23,8 @@ Security Measures: Network segmentation for data protection
 - Cisco Packet Tracer (for network simulation)  
 - TCP/IP Protocol Suite  
 - Dynamic and Static Routing  
-- Network Security Best Practices  
+- Network Security Best Practices
+  
 
 
  
